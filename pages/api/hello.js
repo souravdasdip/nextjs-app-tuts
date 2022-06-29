@@ -5,3 +5,4 @@ export default (req, res) => {
   // debugger;
   res.status(200).json({ name: 'Hello, world!' });
 };
+

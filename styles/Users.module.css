@@ -1,8 +1,8 @@
-.blogItem {
+.item {
   transition: all 0.2s ease;
 }
 
-.blogItem:hover {
+.item:hover {
   transform: scale(1.1);
   cursor: pointer;
   border: 1px solid #0070f3;
